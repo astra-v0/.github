@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/HEADER.png" width="100%">
+  <img src="../assets/Star Field.png" width="100%">
 </p>
 
 <b>Who we are:</b>
