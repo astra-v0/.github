@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/README LOGO.svg" width="200">
+  <img src="../assets/LOGO (B) BG.png" width="200">
 </p>
 
 <b>Who we are:</b>
